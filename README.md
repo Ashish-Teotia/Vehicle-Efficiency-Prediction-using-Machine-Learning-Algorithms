@@ -14,3 +14,17 @@ models like Random Forest (RF), K-Nearest Neighbors (KNN),
 XG-Boost, Ridge Regression, Lasso Regression, etc. and based 
 on that it is compared with the optimum value of mpg and 
 hence one can reach to a decision to discard the vehicle.
+
+The prime machine learning models used in this work are 
+Linear Regression, Decision Tree, Random Forest, KNN, 
+XG-Boost, Ridge Regression, Lasso Model, K-Fold. From 
+basic to advanced major suitable machine learning 
+algorithms are applied, R2 score and root mean square errors 
+are calculated via different algorithms and tuning the models 
+and hence observing the correctness of predictions.
+
+The dataset for this work has been taken from UCI 
+Machine Learning Repository and the primary source of it is 
+from the StatLib library, which is maintained at Carnegie 
+Mellon University. The dataset was used in the 1983 
+American Statistical Association Exposition. 
