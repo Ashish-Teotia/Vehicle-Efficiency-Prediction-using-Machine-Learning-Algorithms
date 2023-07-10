@@ -31,3 +31,6 @@ American Statistical Association Exposition.
 
 View the entire conference paper at
 https://ieeexplore.ieee.org/document/10127656
+
+<img width="683" alt="image" src="https://github.com/Ashish-Teotia/Vehicle-Efficiency-Prediction-using-Machine-Learning-Algorithms/assets/125439405/ee2bc750-400a-469d-b46b-7e5db26ad29b">
+
